@@ -6,7 +6,6 @@ public class Routage {
     private static int nbLiaisons;
     private static int commande;
     private static int[][] matrice;
-    private static int[][] 
    
     public static void main(String[] args) {
         lectureEntree();
